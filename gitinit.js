@@ -24,4 +24,14 @@
 
 //git revert (id)               (xoa commit da~ cu~ vs ma id)
 
-//gitignore
+//.gitignore                    (component chua cac thu muc node)
+
+//git hub//   git remote add origin https://github.com/trunghuynh1235/Dog-Cat-Mouse.git
+// git remote -v                (show các danh sách remote)
+// git push                     (push code lên branch của mình)
+// git push -u origin master    (push code lên branch master)
+// git push origin feature      (push code lên nhánh branch feature)
+
+// git clone https://github.com/trunghuynh1235/Dog-Cat-Mouse.git
+        // (clone all source code from github)
+// git pull
